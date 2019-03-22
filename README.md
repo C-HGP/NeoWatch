@@ -1,10 +1,7 @@
 # NeoWatch 24hr DS3231
 
 ***TODO***
-- [x] Clean up code, make it more readable.
-- [x] Update logging for all events.
-- [ ] Modulise and put code into neat folders for easy access and tinkering.
-- [ ] Create InDesign manuals for easy use. 
+- [ ] Make the more advanced circut schematic.
 
 The 60LED Neopixel watch is a fairly simple yet awesome project. I did this over 48h as a schoolproject in my Embedded class. It uses a 60LED ring to display the time. 
 
@@ -25,6 +22,7 @@ The code halfy taken from Adafruits RingClock example. I have however modified i
 * LED Lamp
 
 
+I have soldered everything together on a circut with a ATMega processor (Which was unnecessarily much for such a simple project). But I made a simple more readble fritzing scheme. I used this setup when I was testing everything. 
 # Schematics #
 To rebuild a exacty copy of the alarm system I made
 ![alt text](https://raw.githubusercontent.com/C-HGP/NeoWatch/master/ProjectNeoWatch/Schematics.png)
