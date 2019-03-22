@@ -22,9 +22,8 @@ The code halfy taken from Adafruits RingClock example. I have however modified i
 - [ ] Make the more advanced circut schematic.
 
 
-I have soldered everything together on a circut with a ATMega processor (Which was unnecessarily much for such a simple project, but it was required for the class). But I made a simple more readble fritzing scheme. I used this setup when I was testing everything. 
 # Schematics #
 
-I have soldered everything together on a circut with a ATMega processor (Which was unnecessarily much for such a simple project). But I made a simple more readble fritzing scheme. I used this setup when I was testing everything. 
+I have soldered everything together on a circut with a ATMega processor (Which was unnecessarily much for such a simple project, but it was required for the class). But I made a simple more readble fritzing scheme. I used this setup when I was testing everything. 
 
 ![alt text](https://raw.githubusercontent.com/C-HGP/NeoWatch/master/ProjectNeoWatch/Schematics.png)
