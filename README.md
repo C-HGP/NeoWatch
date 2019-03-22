@@ -22,6 +22,7 @@ The code halfy taken from Adafruits RingClock example. I have however modified i
 
 ***TODO***
 - [ ] Make the more advanced circut schematic.
+- [ ] Upload the 3D print files
 
 
 # Schematics #
