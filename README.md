@@ -22,7 +22,7 @@ The code halfy taken from Adafruits RingClock example. I have however modified i
 * LED Lamp
 
 
-I have soldered everything together on a circut with a ATMega processor (Which was unnecessarily much for such a simple project). But I made a simple more readble fritzing scheme. I used this setup when I was testing everything. 
+I have soldered everything together on a circut with a ATMega processor (Which was unnecessarily much for such a simple project, but it was required for the class). But I made a simple more readble fritzing scheme. I used this setup when I was testing everything. 
 # Schematics #
 
 I have soldered everything together on a circut with a ATMega processor (Which was unnecessarily much for such a simple project). But I made a simple more readble fritzing scheme. I used this setup when I was testing everything. 
