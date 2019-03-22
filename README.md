@@ -1,9 +1,6 @@
 # NeoWatch 24hr DS3231
 
-***TODO***
-- [ ] Make the more advanced circut schematic.
-
-The 60LED Neopixel watch is a fairly simple yet awesome project. I did this over 48h as a schoolproject in my Embedded class. It uses a 60LED ring to display the time. 
+The 60LED Neopixel watch is a fairly simple yet awesome project i've made. I did this over 48h as a schoolproject in my Embedded class. It uses a 60LED ring to display the time. 
 
 It does it in 3 different colors using blue, red, and green. 
 * Green = Minutes
@@ -20,6 +17,9 @@ The code halfy taken from Adafruits RingClock example. I have however modified i
 * Black Box 
 * Cables
 * LED Lamp
+
+***TODO***
+- [ ] Make the more advanced circut schematic.
 
 
 I have soldered everything together on a circut with a ATMega processor (Which was unnecessarily much for such a simple project, but it was required for the class). But I made a simple more readble fritzing scheme. I used this setup when I was testing everything. 
