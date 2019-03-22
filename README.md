@@ -27,4 +27,4 @@ The code halfy taken from Adafruits RingClock example. I have however modified i
 
 # Schematics #
 To rebuild a exacty copy of the alarm system I made
-![alt text](https://github.com/C-HGP/NeoWatch/blob/master/ProjectNeoWatch/Schematics.png
+![alt text](https://raw.githubusercontent.com/C-HGP/NeoWatch/master/ProjectNeoWatch/Schematics.png)
