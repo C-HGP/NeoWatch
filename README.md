@@ -24,5 +24,7 @@ The code halfy taken from Adafruits RingClock example. I have however modified i
 
 I have soldered everything together on a circut with a ATMega processor (Which was unnecessarily much for such a simple project). But I made a simple more readble fritzing scheme. I used this setup when I was testing everything. 
 # Schematics #
-To rebuild a exacty copy of the alarm system I made
+
+I have soldered everything together on a circut with a ATMega processor (Which was unnecessarily much for such a simple project). But I made a simple more readble fritzing scheme. I used this setup when I was testing everything. 
+
 ![alt text](https://raw.githubusercontent.com/C-HGP/NeoWatch/master/ProjectNeoWatch/Schematics.png)
