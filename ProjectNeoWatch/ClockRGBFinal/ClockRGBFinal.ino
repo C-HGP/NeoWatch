@@ -20,7 +20,7 @@ byte pixelColorRed, pixelColorGreen, pixelColorBlue; // holds color values
 
 //Define the amount of brightness the watch generates during different times of the day
 #define DAYBRIGHT 50
-#define NIGHTBRIGHT 20
+#define NIGHTBRIGHT 15
 
 
 // cutoff times for day / night brightness.
@@ -45,7 +45,7 @@ void setup () {
   
   // The following lines can be uncommented to set the date and time
   //rtc.setDOW(WEDNESDAY);     // Set Day-of-Week to SUNDAY
-  //rtc.setTime(13, 06, 0);     // Set the time to 12:00:00 (24hr format)
+  //rtc.setTime(18, 03, 0);     // Set the time to xx:xx:xx (24hr format)
   //rtc.setDate(1, 1, 2014);   // Set the date to January 1st, 2019
   
 
@@ -137,6 +137,7 @@ void loop () {
 
 
 // Fill the dots one after the other with a color
+// Aka bootup sequence
 void colorWipe(uint32_t c, uint8_t wait) {
   for (uint16_t i = 0; i < strip.numPixels(); i++) {
     //strip.setPixelColor(i, c);
