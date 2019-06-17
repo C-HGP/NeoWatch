@@ -10,7 +10,7 @@ It does it in 3 different colors using blue, red, and green.
 * Blue = Seconds.
 
 When the colors overlap it gets combined so it has a visually nice look to it aswell.
-The code halfy taken from Adafruits RingClock example. I have however modified it to get use from the **DS3231** instead of the **DS1307** 
+The code is inspired from Adafruits RingClock example. This one does however use the **DS3231** instead of the **DS1307** 
 
 # Components # 
 * Arduino Leonardo
